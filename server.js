@@ -15,7 +15,7 @@ const newFolderName = function (folders) {
 
     if (n === folders.length) {
       test.push(`New Folder (${n + 1})`)
-    } 
+    }
   }
 }
 
